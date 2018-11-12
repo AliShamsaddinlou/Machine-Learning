@@ -1,1 +1,1 @@
-# Proto-Typing Machine-Learning
+# Prototyping Machine-Learning
